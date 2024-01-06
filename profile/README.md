@@ -1,4 +1,4 @@
-# <img src="../images/dnd-logo.png" width="30px" height="30px"> DND - Developer & Designer
+# <img src="https://github.com/dnd-side-project/.github/tree/main/images/dnd-logo.png" width="30px" height="30px"> DND - Developer & Designer
 
 > 개발자와 디자이너를 위한 IT 연합 동아리 (For Developer & Designer) 공식 repository
 
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
+  <a href="#">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnd-side-project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
   </a>
 </p>
