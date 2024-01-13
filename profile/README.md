@@ -1,4 +1,4 @@
-# <img src="https://github.com/dnd-side-project/.github/tree/main/images/dnd-logo.png" width="30px" height="30px"> DND - Developer & Designer
+# <img src="https://github.com/dnd-side-project/.github/blob/main/images/dnd-logo.png" width="30px" height="30px"> DND - Developer & Designer
 
 > 개발자와 디자이너를 위한 IT 연합 동아리 (For Developer & Designer) 공식 repository
 
